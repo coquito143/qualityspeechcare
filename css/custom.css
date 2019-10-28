@@ -159,11 +159,23 @@ h6 {
 
 #aboutus {
   margin-bottom: 20px;
+  margin-left: 3vw;
+  margin-right: 3vw;
 }
 
 #aboutus p {
-  margin-left: 5vw;
-  margin-right: 5vw;
+  /* margin-left: 5vw;
+  margin-right: 5vw; */
+  text-align: start;
+}
+
+#certification-div p {
+  text-align: start;
+}
+
+
+.inline {
+    display: inline;
 }
 
 .footer-map {
