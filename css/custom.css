@@ -164,13 +164,12 @@ h6 {
 #aboutus p {
   /* margin-left: 5vw;
   margin-right: 5vw; */
-  text-align: start;
+  /* text-align: start; */
 }
 
 #certification-div p {
-  text-align: start;
+  /* text-align: start; */
 }
-
 
 .inline {
     display: inline;
